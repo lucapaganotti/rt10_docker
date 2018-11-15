@@ -1,0 +1,9 @@
+<EIFFEL_DOCUMENT>
+	<PREFERENCE NAME="rt10.user" VALUE="rt10"/>
+	<PREFERENCE NAME="rt10.host" VALUE="127.0.0.1"/>
+	<PREFERENCE NAME="rt10.database" VALUE="METEO"/>
+	<PREFERENCE NAME="rt10.dbusr" VALUE="root"/>
+	<PREFERENCE NAME="rt10.dbpwd" VALUE="chi66rone;"/>
+	<PREFERENCE NAME="rt10.collect_host" VALUE="127.0.0.1"/>
+	<PREFERENCE NAME="rt10.collect_port" VALUE="9090"/>
+</EIFFEL_DOCUMENT>
