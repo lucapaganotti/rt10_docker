@@ -1,4 +1,4 @@
-FROM es1501
+FROM lucapaganotti/es1501_docker
 LABEL name="rt10"
 LABEL version="1.0"
 LABEL decription="image for rt10"
